@@ -11,3 +11,4 @@ This example demonstrate a simple implementation of a Graph Neural Network (GNN)
 
 Note that, we implement a Graph Convolution Layer from scratch to provide better understanding of how they work. However, there is a number of specialized TensorFlow-based libraries that provide rich GNN APIs, such as Spectral, StellarGraph, and GraphNets.
 
+Copyright does not exist without permission and coordination with Delta DS and is considered a crime (GitHub)
